@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #00AB6F;
+    height: 50px;
+}
+
+main {
+    background-color: white;
+    height: 700px;
+}
+
+main a {
+    color: darkgoldenrod;
+    border: 3px solid green;
+    padding: 3px;
+    border-radius: 20px;
+    margin-left: 90px;
+}
+
+footer {
+    background-color: #0C5AA6;
+    height: 100px;
+    padding: 15px;
+}
+
+footer p {
+    font-size: 20px;
+    background-color: white;
+}
+
+h2 {
+    background-color: #83F03C;
+    width: 200px;
+}
+
+.photo {
+    border: 20px solid #60D5AC;
+    padding: 5px;
+    margin-left: 60px;
+}
+
+h1 {
+    color: #0C5AA6;
+    margin-left: 150px;
+}
+
+.p {
+    border: 3px solid #0D829B;
+    padding: 5px;
+}
+
+.fish {
+    height: 100px;
+    padding-left: 80px;
+}
